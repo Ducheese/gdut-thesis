@@ -10,6 +10,8 @@ latex的表格排版是比较复杂的环节，我给出了个人常用的普通
 
 里面的作为例子的文本内容纯粹是整活，别认真。
 
+<img src="example.png" alt="image-example" style="zoom:33%;" />
+
 一些借物表（侵删）：
 1. 数模国赛论文latex模板（提供cumcmthesis.cls文件）
 2. bibtex-GBT7714格式（提供gbt7714-numerical.bst文件）：https://github.com/zepinglee/gbt7714-bibtex-style
