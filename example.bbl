@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Sims(1980)]{sims1980}
+SIMS C~A.
+\newblock Macroeconomics and reality\allowbreak[J].
+\newblock Econometrica: journal of the Econometric Society, 1980: 1-48.
+
+\end{thebibliography}
