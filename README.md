@@ -10,7 +10,7 @@ latex的表格排版是比较复杂的环节，我给出了个人常用的普通
 
 里面的作为例子的文本内容纯粹是整活，别认真。
 
-<img src="example.png" alt="image-example" style="zoom:10%;" />
+<img src="example.png" width="200" height="200" alt="image-example"/>
 
 一些借物表（侵删）：
 1. 数模国赛论文latex模板（提供cumcmthesis.cls文件）
