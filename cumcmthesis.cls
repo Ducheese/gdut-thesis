@@ -260,7 +260,7 @@ Just choose `xelatex', no `pdflatex' or `latex' and so on.}
 \renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}
 	{-3.25ex\@plus -1ex \@minus -.2ex}
 	{1.5ex \@plus .2ex}
-	{\normalfont\zihao{-4}\bfseries}}   % 三级标题：小四黑体
+	{\normalfont\zihao{-4}\boldheiti}}   % 三级标题：小四黑体
 
 \renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}
 	{3.25ex \@plus1ex \@minus.2ex}
